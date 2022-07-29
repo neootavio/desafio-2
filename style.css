@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50;
+    background-image: url('Imagens/backgorund.png');
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 200px;
+    background-position: center;
+    padding: 50px;
+}
+
+.instagram{
+    list-style-image: url(Imagens/Insta.png) ;
+}
+
+.twitter{
+    list-style-image: url(Imagens/Twitter.png);
+}
+
+.youtube{
+    list-style-image: url(Imagens/Youtube.png);
+}
